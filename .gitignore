@@ -20,3 +20,4 @@ XaeroWaypoints_*/
 XaeroWorldMap/
 *.log
 icon.png
+config/fabric/*
