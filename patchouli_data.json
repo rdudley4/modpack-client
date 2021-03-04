@@ -1,0 +1,47 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "mmorpg:age_of_exile_guide": {
+      "viewedEntries": [
+        "mmorpg:getting_started/gear_crafting",
+        "mmorpg:getting_started/salvaging",
+        "mmorpg:getting_started/repairing",
+        "mmorpg:progression/iron_golem_boss",
+        "mmorpg:be_warned/enemy_levels",
+        "mmorpg:be_warned/element_resists",
+        "mmorpg:be_warned/modpacks",
+        "mmorpg:be_warned/mob_rarities",
+        "mmorpg:items/identify_tome",
+        "mmorpg:gear/normal_gear",
+        "mmorpg:gear/unique_gear",
+        "mmorpg:gear/socketed_gear",
+        "mmorpg:spells/how_to_get_spells",
+        "mmorpg:getting_started/leveling",
+        "mmorpg:getting_started/socketing",
+        "mmorpg:getting_started/favor",
+        "mmorpg:spells/how_to_socket_spells",
+        "mmorpg:spells/how_to_use_spells",
+        "mmorpg:items/reset_all_perks",
+        "mmorpg:items/stat_reset_pot"
+      ],
+      "bookmarks": [],
+      "history": [
+        "mmorpg:getting_started/salvaging",
+        "mmorpg:items/stat_reset_pot",
+        "mmorpg:progression/iron_golem_boss",
+        "mmorpg:be_warned/modpacks",
+        "mmorpg:items/identify_tome",
+        "mmorpg:items/reset_all_perks",
+        "mmorpg:gear/normal_gear",
+        "mmorpg:gear/socketed_gear",
+        "mmorpg:getting_started/socketing",
+        "mmorpg:getting_started/gear_crafting",
+        "mmorpg:getting_started/repairing",
+        "mmorpg:spells/how_to_use_spells",
+        "mmorpg:spells/how_to_socket_spells"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
